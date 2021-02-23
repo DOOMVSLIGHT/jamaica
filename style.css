@@ -1,0 +1,26 @@
+body{
+    padding-top: 56px;
+}
+.jumbotron{
+    background: url("yves-alarie-BXk-N2fPLYo-unsplash.jpg") no-repeat center;
+    height: 500px;
+}
+h1{
+    font-family: 'oi', cursive;
+   padding-top: 150px;
+}
+.btnh{
+    background-color: black;
+}
+.btn-primary {
+    background-color: black;
+    border-color: #D5A021;
+    outline-color: #D5A021;
+    font-weight: bolder;
+  }
+  .navbar-brand{
+    font-weight: 900;
+  }
+  .nav-link{
+      font-weight: 900;
+  }
