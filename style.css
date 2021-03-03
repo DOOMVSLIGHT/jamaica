@@ -24,3 +24,33 @@ h1{
   .nav-link{
       font-weight: 900;
   }
+  .navimi{
+      border-radius: 80%;
+  }
+  .card-img-top{
+      height: 200px;
+  }
+  h2{
+      font-family:'oi', cursive ;
+      color: #ffc107;
+  }
+  h4{
+      color:#ffc107 ;
+  }
+  
+  h3{
+    color: #ffc107;
+  } 
+  .giphy1{
+      height: 200px;
+      width: 300px;
+ }
+
+    
+}
+ .slidin{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
